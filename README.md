@@ -19,4 +19,4 @@ Along with the documents that I have kept as a manager, I have also contributed 
 
 ![](http://subirimagen.me/uploads/20170605132137.gif) ![](http://subirimagen.me/uploads/20170605140644.gif)
 
-![](http://subirimagen.me/uploads/20170605142621.gif)
+![](http://subirimagen.me/uploads/20170605142621.gif) ![](http://subirimagen.me/uploads/20170605170922.gif)
