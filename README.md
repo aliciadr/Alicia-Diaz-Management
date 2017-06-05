@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Alicia Díaz - Management
 
-You can use the [editor on GitHub](https://github.com/aliciadr/Alicia-Diaz-Management/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have worked on this team as the manager, traking down the time of each task produced and keeping the record of the meetings and events that there have been, while watching over the milestones and calendar procedures that had to be made.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Along with the documents that I have kept as a manager, I have also contributed to the artistic part of the project, some of the tasks that I have made are:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aliciadr/Alicia-Diaz-Management/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - Map design, art and arrangement, for Kakariko and the Castle
+ - Character design, including Link and Zelda
+ - Character animations, for Link, Zelda, Ganon and other NPCs
+ - Introduction and credit scenes
