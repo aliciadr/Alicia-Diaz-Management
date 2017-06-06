@@ -6,7 +6,7 @@ I have worked on this team as the manager, traking down the time of each task pr
 
 Along with the documents that I have kept as a manager, I have also contributed to the artistic part of the project, some of the tasks that I have made are:
 
- - Map design, art and arrangement, for Kakariko, the Castle and the houses
+ - Map art and arrangement, for Kakariko, the Castle and the houses
  - Character design, including Link and Zelda
  - Character animations, for Link, Zelda, Ganon and other NPCs
  - Introduction and credit scenes
